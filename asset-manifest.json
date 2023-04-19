@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/appsforce/static/css/main.1ffddab7.css",
-    "main.js": "/appsforce/static/js/main.de5aa988.js",
+    "main.js": "/appsforce/static/js/main.215a66e1.js",
     "static/media/default.jpg": "/appsforce/static/media/default.87ab7f026807bdd32824.jpg",
     "static/media/location.png": "/appsforce/static/media/location.4ba2450b71e973e57b09.png",
     "static/media/search.png": "/appsforce/static/media/search.5d9d8bd967d5ad14ee6c.png",
     "index.html": "/appsforce/index.html",
     "main.1ffddab7.css.map": "/appsforce/static/css/main.1ffddab7.css.map",
-    "main.de5aa988.js.map": "/appsforce/static/js/main.de5aa988.js.map"
+    "main.215a66e1.js.map": "/appsforce/static/js/main.215a66e1.js.map"
   },
   "entrypoints": [
     "static/css/main.1ffddab7.css",
-    "static/js/main.de5aa988.js"
+    "static/js/main.215a66e1.js"
   ]
 }
